@@ -11,10 +11,10 @@ namespace Wk1Ex11
         static void Main(string[] args)
         {
             Console.WriteLine("INFOFORMATION Input");
-            Console.WriteLine("What is your first name?");
-            Console.WriteLine("What is your last name?");
-            Console.WriteLine("What is your age?");
-            Console.WriteLine("What is your favorite color");
+            Console.WriteLine("What is your first name?"); //David
+            Console.WriteLine("What is your last name?"); //Bustos
+            Console.WriteLine("What is your age?"); //19
+            Console.WriteLine("What is your favorite color"); //Blue
         }
     }
 }
